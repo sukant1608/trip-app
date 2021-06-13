@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+}
+.menu {
+  width: 30%;
+  margin: 10%;
+}
+.screen {
+  width: 70%;
+}
+.menu-icon {
+  cursor: pointer;
+}
+.trips-stats {
+  margin-top: 10%;
+}
+.trips-stats p {
+  display: inline;
+  font-size: 15px;
+}
+.trips-stats h1 {
+  display: inline;
+  margin-right: 10%;
+  font-size: 80px;
+}
+.input-tag {
+  border: 2px solid black;
+  padding: 5px;
+}
